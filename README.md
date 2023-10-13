@@ -4,7 +4,7 @@ My name is Matteo Incremona, a 21 years old FinTech student.
 
 Creator of [algoind] librabry in Python3.
 
-# 📮 Contact
+# 📮 Contacts
 - 📩 Email: matteoincremona82@gmail.com
 - 👨‍💼 LinkedIn: https://www.linkedin.com/in/matteo-incremona/
 - 💻 Pipy: https://pypi.org/project/algoind/
