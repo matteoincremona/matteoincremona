@@ -1,6 +1,6 @@
 # 😁 Who I am
 
-I am Matteo Incremona, a 21 years old FinTech student.
+My name is Matteo Incremona, a 21 years old FinTech student.
 
 Creator of [algoind] librabry in Python3.
 
