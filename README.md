@@ -7,8 +7,8 @@ My Python3 library: [algoind]
 
 # 📮 Contacts
 - 📩 Email: matteoincremona82@gmail.com
-- 👨‍💼 LinkedIn: https://www.linkedin.com/in/matteo-incremona
-- 💻 Pipy: https://pypi.org/project/algoind
+- 👨‍💼 LinkedIn: www.linkedin.com/in/matteo-incremona
+- 💻 Pipy: www.pypi.org/project/algoind
 
 
 [algoind]: https://github.com/matteoincremona/algoind
