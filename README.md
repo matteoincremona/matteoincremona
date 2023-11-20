@@ -1,7 +1,7 @@
 # 😁 Who I am
 My name is Matteo Incremona, a 21 years old FinTech student based in Lugano.
 
-I am currently working on programming **algorithmic trading strategies**.
+I am currently working on programming **algorithmic trading strategies using ML**.
 
 My Python3 library: [algoind]
 
