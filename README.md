@@ -12,5 +12,3 @@ My Python3 library: [algoind]
 
 
 [algoind]: https://github.com/matteoincremona/algoind
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=matteoincremona&show_icons=true&locale=en&layout=compact&theme=dark&count_private=true"/></p>
