@@ -13,7 +13,7 @@ My Python3 library: [algoind]
 - 💻 Pipy: www.pypi.org/project/algoind
 
 
-# 💻 Languages and Tools
+# 💻 Languages, Tools and Stats
 
 </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/></a>
 </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="55" height="55"/></a>
