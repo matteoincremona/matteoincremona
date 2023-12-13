@@ -1,3 +1,6 @@
+<img src="https://komarev.com/ghpvc/?username=matteoincremona&label=Profile%20views&color=brightgreen&style=flat" /> </a>
+[![Wakatime](https://wakatime.com/badge/user/matteoincremona)](https://wakatime.com/@matteoincremona)
+
 # 😁 Who I am
 I am Matteo Incremona, a 21 years old FinTech student based in Lugano.
 
