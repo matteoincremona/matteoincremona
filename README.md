@@ -1,5 +1,5 @@
 # 😁 Who I am
-<img src="https://komarev.com/ghpvc/?username=matteoincremona&label=Profile%20views&color=brightgreen&style=flat" /> </a>
+<img src="https://komarev.com/ghpvc/?username=matteoincremona&label=Profile%20views&color=brightgreen&style=for-the-badge" /> </a>
 
 I am Matteo Incremona, a 21 years old FinTech student based in Lugano.
 
