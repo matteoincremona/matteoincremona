@@ -20,5 +20,6 @@ My Python3 library: [algoind]
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=matteoincremona&show_icons=true&locale=en&theme=dark&count_private=true&hide=stars,prs,issues,contribs" alt="matteoincremona" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matteoincremona&show_icons=true&locale=en&layout=compact&theme=dark&count_private=true" alt="matteoincremona" /></p>
 
+![matteoincremona's Streak](https://github-readme-streak-stats.herokuapp.com/?user=matteoincremona&theme=onedark&hide_border=true)
 
 [algoind]: https://github.com/matteoincremona/algoind
