@@ -13,8 +13,11 @@ My Python3 library: [algoind]
 - 💻 Pipy: www.pypi.org/project/algoind
 
 
+# 💻 Languages and Tools
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
 
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=matteoincremona&show_icons=true&locale=en&layout=compact&theme=dark&count_private=true" alt="matteoincremona" /></p>
 
 [algoind]: https://github.com/matteoincremona/algoind
