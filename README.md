@@ -1,7 +1,7 @@
-# 😁 Who I am
+# Hi 😁, I am Matteo
 <img src="https://komarev.com/ghpvc/?username=matteoincremona&label=Profile%20views&color=orange&style=for-the-badge" /> </a>
 
-I am Matteo Incremona, a 21 years old FinTech student based in Lugano.
+I am a 21 years old FinTech student based in Lugano.
 
 I am currently working on programming **algorithmic trading strategies using ML**.
 
