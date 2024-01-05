@@ -1,4 +1,4 @@
-# Hi 😁, I am Matteo
+# Hi 😁, I am Matteo!
 <img src="https://komarev.com/ghpvc/?username=matteoincremona&label=Profile%20views&color=orange&style=for-the-badge" /> </a>
 
 I am a 21 years old FinTech student based in Lugano.
