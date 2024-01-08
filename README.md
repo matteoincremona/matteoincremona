@@ -3,7 +3,7 @@
 
 I am a 21 years old FinTech student based in Lugano.
 
-I am currently working on programming **algorithmic trading strategies using ML**.
+I am currently working on programming **algorithmic trading strategies**.
 
 My Python3 library: [algoind]
 
