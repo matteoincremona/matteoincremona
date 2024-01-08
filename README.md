@@ -1,9 +1,9 @@
-# Hi 😁, I am Matteo!
+# Hi 😁, I'm Matteo!
 <img src="https://komarev.com/ghpvc/?username=matteoincremona&label=Profile%20views&color=orange&style=for-the-badge" /> </a>
 
-I am a 21 years old FinTech student based in Lugano.
+I'm a 21-year-old FinTech student based in Lugano.
 
-I am currently working on programming **algorithmic trading strategies**.
+I'm currently working on coding **algorithmic trading strategies**.
 
 My Python3 library: [algoind]
 
