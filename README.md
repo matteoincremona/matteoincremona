@@ -8,6 +8,10 @@ I'm currently working on coding **algorithmic trading strategies**.
 My Python3 library: [algoind]
 
 # 📮 Contacts
+
+[![Gmail](https://skillicons.dev/icons?i=gmail&perline=3)](https://skillicons.dev)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=3)](https://skillicons.dev)
+
 - 📩 Email: matteoincremona82@gmail.com
 - 👨‍💼 LinkedIn: www.linkedin.com/in/matteo-incremona
 - 💻 Pipy: www.pypi.org/project/algoind
@@ -30,3 +34,4 @@ My Python3 library: [algoind]
 
 
 [algoind]: https://github.com/matteoincremona/algoind
+
