@@ -7,7 +7,7 @@ I'm currently working on coding **algorithmic trading strategies**.
 
 My Python3 library: [algoind]
 
-# 📮 Contacts
+# 📮 My Contacts
 
 - 📩 Email: matteoincremona82@gmail.com
 - 👨‍💼 LinkedIn: www.linkedin.com/in/matteo-incremona
