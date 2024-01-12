@@ -10,7 +10,7 @@ My Python3 library: [algoind]
 # 📮 Contacts
 
 [![Gmail](https://skillicons.dev/icons?i=gmail&perline=3)](https://skillicons.dev)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=3)](https://skillicons.dev)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/matteo-incremona)
 
 - 📩 Email: matteoincremona82@gmail.com
 - 👨‍💼 LinkedIn: www.linkedin.com/in/matteo-incremona
