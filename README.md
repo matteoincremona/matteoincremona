@@ -25,7 +25,6 @@ My Python3 library: [algoind]
 </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="r" width="50" height="55"/></a>
 
 
-![matteoincremona's Streak](https://github-readme-streak-stats.herokuapp.com/?user=matteoincremona&theme=radical&hide_border=false)
 ![matteoincremona's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matteoincremona&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
 
