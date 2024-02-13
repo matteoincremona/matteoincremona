@@ -3,8 +3,6 @@
 
 I'm a young FinTech student based in Lugano.
 
-I'm currently working on coding **algorithmic trading strategies**.
-
 My Python3 library: [algoind]
 
 # 📮 My Contacts
