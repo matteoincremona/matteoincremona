@@ -27,4 +27,4 @@ My Python3 library: [algoind]
 
 [algoind]: https://github.com/matteoincremona/algoind
 [Email]: matteoincremona82@gmail.com
-[LinkedIn]: www.linkedin.com/in/matteo-incremona
+[LinkedIn]: https://linkedin.com/in/matteo-incremona
