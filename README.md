@@ -7,7 +7,7 @@ My Python3 library: [algoind]
 
 # 📮 My Contacts
 
-- 📩 [Email]
+- 📩 matteoincremona82@gmail.com
 - 👨‍💼 [LinkedIn]
 
 
@@ -26,5 +26,4 @@ My Python3 library: [algoind]
 
 
 [algoind]: https://github.com/matteoincremona/algoind
-[Email]: matteoincremona82@gmail.com
 [LinkedIn]: https://linkedin.com/in/matteo-incremona
