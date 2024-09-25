@@ -1,15 +1,14 @@
 # Hi 😁, I'm Matteo!
 <img src="https://komarev.com/ghpvc/?username=matteoincremona&label=Profile%20views&color=orange&style=for-the-badge" /> </a>
 
-I'm a young FinTech student based in Lugano.
+I'm a young Informatics and Economics student based in Lugano.
 
 My Python3 library: [algoind]
 
 # 📮 My Contacts
 
-- 📩 Email: matteoincremona82@gmail.com
-- 👨‍💼 LinkedIn: www.linkedin.com/in/matteo-incremona
-- 💻 Pipy: www.pypi.org/project/algoind
+- 📩 [Email]
+- 👨‍💼 [LinkedIn]
 
 
 # 💻 Languages, Tools and Stats
@@ -26,6 +25,6 @@ My Python3 library: [algoind]
 ![matteoincremona's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matteoincremona&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
 
-
 [algoind]: https://github.com/matteoincremona/algoind
-
+[Email]: matteoincremona82@gmail.com
+[LinkedIn]: www.linkedin.com/in/matteo-incremona
