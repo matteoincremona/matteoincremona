@@ -1,7 +1,7 @@
 # Hi 😁, I'm Matteo!
 <img src="https://komarev.com/ghpvc/?username=matteoincremona&label=Profile%20views&color=orange&style=for-the-badge" /> </a>
 
-I'm a young Informatics and Economics student based in Lugano.
+Engineering & CS
 
 My Python3 library: [algoind]
 
